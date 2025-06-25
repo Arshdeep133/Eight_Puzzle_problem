@@ -1,0 +1,422 @@
+=== Individual Puzzle Results ===
+Puzzle 1:
+Puzzle:
+4 3 7
+6 8 0
+1 5 2
+
+Algorithm Results:
+  bfs:
+    Execution Time (s): 8.0132215
+    Memory Usage (KB): 258.029296875
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: Yes
+
+  dfs:
+    Execution Time (s): 3.409999999881563e-05
+    Memory Usage (KB): 2.3359375
+    Completeness: No
+    Solution Steps: N/A
+    Optimality: No
+
+  a_star_manhattan:
+    Execution Time (s): 0.12680449999999865
+    Memory Usage (KB): 162.78125
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: Yes
+
+  a_star_misplaced:
+    Execution Time (s): 1.5068605000000002
+    Memory Usage (KB): 272.7568359375
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: Yes
+
+  a_star_linear_conflict:
+    Execution Time (s): 0.06520309999999796
+    Memory Usage (KB): 122.7900390625
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: Yes
+
+  a_star_inconsistent:
+    Execution Time (s): 0.06666990000000084
+    Memory Usage (KB): 172.080078125
+    Completeness: Yes
+    Solution Steps: 27
+    Optimality: No
+
+  a_star_non_additive_pdb:
+    Execution Time (s): 10.3469746
+    Memory Usage (KB): 275.072265625
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: Yes
+
+  bidirectional:
+    Execution Time (s): 0.06551389999999913
+    Memory Usage (KB): 169.0751953125
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: Yes
+
+  greedy_manhattan:
+    Execution Time (s): 0.036612599999998
+    Memory Usage (KB): 149.453125
+    Completeness: Yes
+    Solution Steps: 83
+    Optimality: No
+
+  greedy_misplaced:
+    Execution Time (s): 0.01953280000000035
+    Memory Usage (KB): 66.55859375
+    Completeness: Yes
+    Solution Steps: 109
+    Optimality: No
+
+  greedy_linear_conflict:
+    Execution Time (s): 0.0055855000000022414
+    Memory Usage (KB): 27.1953125
+    Completeness: Yes
+    Solution Steps: 55
+    Optimality: No
+
+  greedy_inconsistent:
+    Execution Time (s): 0.03705529999999868
+    Memory Usage (KB): 131.6484375
+    Completeness: Yes
+    Solution Steps: 45
+    Optimality: No
+
+  greedy_non_additive_pdb:
+    Execution Time (s): 0.010706200000001331
+    Memory Usage (KB): 27.1875
+    Completeness: Yes
+    Solution Steps: 45
+    Optimality: No
+
+
+Puzzle 2:
+Puzzle:
+2 7 4
+0 1 3
+8 5 6
+
+Algorithm Results:
+  bfs:
+    Execution Time (s): 1.3843403000000052
+    Memory Usage (KB): 251.8515625
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  dfs:
+    Execution Time (s): 3.219999999970469e-05
+    Memory Usage (KB): 0.0
+    Completeness: No
+    Solution Steps: N/A
+    Optimality: No
+
+  a_star_manhattan:
+    Execution Time (s): 0.01273869999999988
+    Memory Usage (KB): 74.2265625
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  a_star_misplaced:
+    Execution Time (s): 0.11940419999999818
+    Memory Usage (KB): 210.078125
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  a_star_linear_conflict:
+    Execution Time (s): 0.013186499999996215
+    Memory Usage (KB): 57.7890625
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  a_star_inconsistent:
+    Execution Time (s): 0.008713600000000099
+    Memory Usage (KB): 51.453125
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  a_star_non_additive_pdb:
+    Execution Time (s): 2.610993200000003
+    Memory Usage (KB): 258.3671875
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  bidirectional:
+    Execution Time (s): 0.011837599999999782
+    Memory Usage (KB): 154.1015625
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  greedy_manhattan:
+    Execution Time (s): 0.015436699999995085
+    Memory Usage (KB): 29.7421875
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  greedy_misplaced:
+    Execution Time (s): 0.024038199999999676
+    Memory Usage (KB): 43.6015625
+    Completeness: Yes
+    Solution Steps: 33
+    Optimality: No
+
+  greedy_linear_conflict:
+    Execution Time (s): 0.002052400000003729
+    Memory Usage (KB): 10.875
+    Completeness: Yes
+    Solution Steps: 19
+    Optimality: Yes
+
+  greedy_inconsistent:
+    Execution Time (s): 0.016833800000000565
+    Memory Usage (KB): 65.3671875
+    Completeness: Yes
+    Solution Steps: 103
+    Optimality: No
+
+  greedy_non_additive_pdb:
+    Execution Time (s): 0.35085049999999995
+    Memory Usage (KB): 169.5625
+    Completeness: Yes
+    Solution Steps: 129
+    Optimality: No
+
+
+Puzzle 3:
+Puzzle:
+4 3 5
+0 2 7
+8 1 6
+
+Algorithm Results:
+  bfs:
+    Execution Time (s): 0.5725835000000004
+    Memory Usage (KB): 250.5390625
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  dfs:
+    Execution Time (s): 3.530000000040445e-05
+    Memory Usage (KB): 0.0
+    Completeness: No
+    Solution Steps: N/A
+    Optimality: No
+
+  a_star_manhattan:
+    Execution Time (s): 0.0034908000000015704
+    Memory Usage (KB): 27.2421875
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  a_star_misplaced:
+    Execution Time (s): 0.0364952000000045
+    Memory Usage (KB): 141.0
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  a_star_linear_conflict:
+    Execution Time (s): 0.0030615000000011605
+    Memory Usage (KB): 45.875
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  a_star_inconsistent:
+    Execution Time (s): 0.004808900000000449
+    Memory Usage (KB): 42.1328125
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  a_star_non_additive_pdb:
+    Execution Time (s): 1.0628851000000026
+    Memory Usage (KB): 271.5234375
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  bidirectional:
+    Execution Time (s): 0.020332899999999654
+    Memory Usage (KB): 78.3828125
+    Completeness: Yes
+    Solution Steps: 17
+    Optimality: Yes
+
+  greedy_manhattan:
+    Execution Time (s): 0.01185439999999005
+    Memory Usage (KB): 37.7578125
+    Completeness: Yes
+    Solution Steps: 41
+    Optimality: No
+
+  greedy_misplaced:
+    Execution Time (s): 0.03706479999999601
+    Memory Usage (KB): 82.0078125
+    Completeness: Yes
+    Solution Steps: 97
+    Optimality: No
+
+  greedy_linear_conflict:
+    Execution Time (s): 0.004573399999998173
+    Memory Usage (KB): 17.46875
+    Completeness: Yes
+    Solution Steps: 25
+    Optimality: No
+
+  greedy_inconsistent:
+    Execution Time (s): 0.01880489999999213
+    Memory Usage (KB): 47.765625
+    Completeness: Yes
+    Solution Steps: 41
+    Optimality: No
+
+  greedy_non_additive_pdb:
+    Execution Time (s): 0.34863599999999906
+    Memory Usage (KB): 172.765625
+    Completeness: Yes
+    Solution Steps: 137
+    Optimality: No
+
+
+
+=== Overall Performance Across All Puzzles ===
+bfs:
+  Total Execution Time (s): 9.970145300000006
+  Success Count: 3
+  Memory Usage (KB): 760.419921875
+  Total Puzzles: 3
+  Average Execution Time (s): 3.3233817666666687
+  Average Memory Usage (KB): 253.47330729166666
+  Success Rate: 1.0
+
+dfs:
+  Total Execution Time (s): 0.00010159999999892477
+  Success Count: 0
+  Memory Usage (KB): 2.3359375
+  Total Puzzles: 3
+  Average Execution Time (s): 3.3866666666308255e-05
+  Average Memory Usage (KB): 0.7786458333333334
+  Success Rate: 0.0
+
+a_star_manhattan:
+  Total Execution Time (s): 0.1430340000000001
+  Success Count: 3
+  Memory Usage (KB): 264.25
+  Total Puzzles: 3
+  Average Execution Time (s): 0.04767800000000003
+  Average Memory Usage (KB): 88.08333333333333
+  Success Rate: 1.0
+
+a_star_misplaced:
+  Total Execution Time (s): 1.6627599000000028
+  Success Count: 3
+  Memory Usage (KB): 623.8349609375
+  Total Puzzles: 3
+  Average Execution Time (s): 0.554253300000001
+  Average Memory Usage (KB): 207.94498697916666
+  Success Rate: 1.0
+
+a_star_linear_conflict:
+  Total Execution Time (s): 0.08145109999999534
+  Success Count: 3
+  Memory Usage (KB): 226.4541015625
+  Total Puzzles: 3
+  Average Execution Time (s): 0.02715036666666511
+  Average Memory Usage (KB): 75.48470052083333
+  Success Rate: 1.0
+
+a_star_inconsistent:
+  Total Execution Time (s): 0.08019240000000138
+  Success Count: 3
+  Memory Usage (KB): 265.666015625
+  Total Puzzles: 3
+  Average Execution Time (s): 0.02673080000000046
+  Average Memory Usage (KB): 88.55533854166667
+  Success Rate: 1.0
+
+a_star_non_additive_pdb:
+  Total Execution Time (s): 14.020852900000005
+  Success Count: 3
+  Memory Usage (KB): 804.962890625
+  Total Puzzles: 3
+  Average Execution Time (s): 4.673617633333335
+  Average Memory Usage (KB): 268.3209635416667
+  Success Rate: 1.0
+
+bidirectional:
+  Total Execution Time (s): 0.09768439999999856
+  Success Count: 3
+  Memory Usage (KB): 401.5595703125
+  Total Puzzles: 3
+  Average Execution Time (s): 0.032561466666666185
+  Average Memory Usage (KB): 133.85319010416666
+  Success Rate: 1.0
+
+greedy_manhattan:
+  Total Execution Time (s): 0.06390369999998313
+  Success Count: 3
+  Memory Usage (KB): 216.953125
+  Total Puzzles: 3
+  Average Execution Time (s): 0.021301233333327712
+  Average Memory Usage (KB): 72.31770833333333
+  Success Rate: 1.0
+
+greedy_misplaced:
+  Total Execution Time (s): 0.08063579999999604
+  Success Count: 3
+  Memory Usage (KB): 192.16796875
+  Total Puzzles: 3
+  Average Execution Time (s): 0.02687859999999868
+  Average Memory Usage (KB): 64.05598958333333
+  Success Rate: 1.0
+
+greedy_linear_conflict:
+  Total Execution Time (s): 0.012211300000004144
+  Success Count: 3
+  Memory Usage (KB): 55.5390625
+  Total Puzzles: 3
+  Average Execution Time (s): 0.004070433333334715
+  Average Memory Usage (KB): 18.513020833333332
+  Success Rate: 1.0
+
+greedy_inconsistent:
+  Total Execution Time (s): 0.07269399999999138
+  Success Count: 3
+  Memory Usage (KB): 244.78125
+  Total Puzzles: 3
+  Average Execution Time (s): 0.024231333333330458
+  Average Memory Usage (KB): 81.59375
+  Success Rate: 1.0
+
+greedy_non_additive_pdb:
+  Total Execution Time (s): 0.7101927000000003
+  Success Count: 3
+  Memory Usage (KB): 369.515625
+  Total Puzzles: 3
+  Average Execution Time (s): 0.2367309000000001
+  Average Memory Usage (KB): 123.171875
+  Success Rate: 1.0
+
+
+=== Conclusion ===
+The best algorithm across all puzzles is greedy_linear_conflict, balancing success rate and execution time.
+
+=== End of Report ===
