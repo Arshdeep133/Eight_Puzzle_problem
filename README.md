@@ -1,9 +1,9 @@
 # Search_Algorithm_Evaluation_System_on_3*3_Eight_puzzles
  
-##Project Scope
+## Project Scope
 This project focuses on evaluating and comparing various search algorithms—both uninformed and informed—for solving the 3×3 sliding tile puzzle, also known as the Eight Puzzle. The puzzle requires moving tiles into a goal configuration by sliding one tile at a time into the empty space. Due to the exponential growth of state space, the Eight Puzzle serves as an excellent benchmark for studying the efficiency and effectiveness of different search strategies and heuristics.
 
-##Objectives:
+## Objectives:
 Compare multiple uninformed and informed search algorithms
 
 Evaluate different heuristic functions in guiding A* and IDA* searches
